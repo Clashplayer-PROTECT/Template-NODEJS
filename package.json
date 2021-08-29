@@ -1,0 +1,17 @@
+{
+    "name": "bot",
+    "version": "1.0.0",
+    "private": true,
+    "description": "Discord Bot",
+    "keywords": [],
+    "author": {
+        "name": "Votre bot discord",
+        "email": "contact@chaun14.fr",
+        "url": "https://www.host.chaun14.fr/"
+    },
+    "main": "index.js",
+    "dependencies": {},
+    "files": [],
+    "directories": {},
+    "scripts": {}
+}
